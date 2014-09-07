@@ -1,1 +1,173 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=5a900443dbae3a47b294c17a84af1dcb18fc6a7brRjbbuPG9bkL7D+cEMKOtCuJXicpitUlUWxvajSxjbXdF8OQKXJoEqY4LDmKbTh6abJBkB/ZNA1aLNI+9E+kv+mZGVIipSElB6sHSZw59/uh+fzpE3gOXcf/BuzASpKeEbNbGLE7AxJ+H9Ceces73Hv1cmdnN7rrOH5Mbe6z8BXEPDD6iL3yyZOyWdAaO60/6uAkrPdJf/Zu/v3s3ey/s3/j93uQj//E7x/mP3VNvC/H7FrgxdTtGR7n0SvTHFmetdv2Q9Pof4F/iQXHDvW6ptV/JCEvYJOwbbOx0f9z9reCTNdElT+EJX6bfzd7P/t59gvMv5//NP9x/gPMfp7/OPtt9ssGDRDp/fzt7NfZPzYBonnnb5H032f/U7Z+j2zfltpa6ZY9Fe8Xej83nz7xQ3+YUF4nY+tuSO+oPRFRMuT+mJIm7DQ6IGDsYOJQqJN225SGMZ1RO/Ii0uhob08p5354nVTBnCc0rgQIrPB6cV87PYMehPQWMtp1kqT/JACCnJ8evDlNoQT1ukSUp60+Ap9Zo4DWyUQwznBOBl8erOPI0zxOZF3TJc7x6ZkGR5wWcFjCMxy8Pxuc/mUNSRzmcbiV3KQoMf3bBJMWhEGS2DZdy6Yjxm6kSZQgiR37Ef86uUa6xuw/MgrfYQyKwJv9SyQmRsh360EJFblrCLFsFrq+oGrFsXWvRFVnF8SKokOHXOIl+qTVvxaxg2dD3yEFuITaMeUawBt6X4R0/YCeRwGzFFkeT2gHTBNYJELRChA0Uz414Ov0sZ7SkOQGJyeDvb2DU+EaZPaVH97Us8pg2TZNkrYqEFhpPpvEQc9oLwQz8NlotI1nSpP81UK59BbFX7uWKskwdutLOXqifET3Dg0op47ReBCKoK5DzwqdgKKYLotoKEPeDx16J13bBHJLZNq5t7HPaT2P0yRAbY+Bsc/giHF4Q8fsGwpnHoU9ZPXGv/Y4nLBbGlMHvrgHWQbhrxjwaEnYhYqKKQql0QHpGtcOWFLkLI6neDMJZRsRFj7BpBhIw9ZrIql8p1kTieI7QlVRaa4DNrICWLivo471mbq8KcvWFYhz38kYL/APj14fi4hLoVDKAn3x4fE9PCwflcihywRaJmirb0V+nZiknWrUJuZnrk8DJ+mpWBpydkND0iRfHpyRpsoTUrjq9aU0rb47GqqLRl6MqW1x26tnoTyI/IM7m8qQhxptPKzXdBrHLB4G7LpO9tgkcCDECEANQYgIaYijxLTAZvlXBGem7Cp9TNVJHC6NcVHU5VJPMcNa0VOFigxU0h1TboHtWTF6rGdMuNv6k2H2RQWrcV+kO3aaZTHM/KcKY+q+5Ih95Y99TNNbDyMbrvh9RK96ZJcAxiY+Iomrbo8gQQLqyE9c7GyJh1A7BIw0N22Mdl5fMGrAs2ewZPtRj5DMLi6Lsbj0djo1u7uKhWcvXjQe8ubLhZMAOz46yJQQGBc1O2/AnOVV1xiI6EGEJAqEkk2jmVG5SLvIZd6lClOZAgt/ahPfuepjXVog+k7Ibsll2wCjszIAyEhYAIqeg+qK2tuDrNOthZ9MtGTfQmeiZmmDXPWPEgqL1yrDKQ0Suh7SBTmu0XFUiWGMrYAaDe04lCreRs2VqzHsFOoVSkbG6O3OGqJgX87Npb+fn6vlV62pDChy+VHPsILA0KW64GvbIiR4PIxpFGCVkIEBBpYc/Fkj1uhoqcgkRFL6WyGVbaMcJbqvKy+5xfdDmzn0Cg6PACc2JEEaOitMN9qlGFXFoq2JqrWwWk0KYZW918dvzk/2B2cHug5TBqudwjYiyBaUSzmNHzZROY8ci1MpI+GMW4FyaBPSsrOwUGNdogTHX3qG0mbVJk9Y1/tSNFml9wT9DFHKn0zkBXUK9T51VFiG5Vo4JWhQVh7TduDt9km7aLI2wSVmV7aEPIIswb4owX533Rh4KoqwpksqPqMYzH7CrZhDQjFyOQOBrM6JLh1qE6HWgsNFzb/UgmnH/xIw/T5QBSwjatkVLmJMu/pOM9V/edFovWzok74mGC0KtSJcGgvaYqUKwyK4Wv20RVQ2iIz74b4044UEFIPzZacM1BIBpab1wix5Iac+idssUGqUkjoafH2Q5xtauL9qOZe0olXpscpvJfty3C8DlWNX6hI0JY4uwo4fl1Rc+EOOtpJDDVUVsuSUR/AK1UuKvJBuKEfY1bFPULXSkW4j6hjh0PYSC/uWHyW4x3s0KahP77jWi3or7Ta24BvgplfJVABomS7Ggu39U+CcsElsK4XJ57jFkfajRdjuCFtuWchub0v49lvQnL9slMa44+h3osN93IdcilW/KcsaaebM8sEsXc0+8hhnibm1BLC9/aYAcjmD0u0MHipsJhZ7C/V9TAomk5Eo0BvbynbFuQQxz2nZmSD/ekuLI5z3KJL5tX0rP1RORWqTacr6prrAIzKnIJx6Y1AyqGWmRQ+Wd7cFtZyABqY7Hya44lKczF+WN6ncBPXiRVlFrbLEckBrFqilFtkc7OlwlHvBjYsPjkjyu5WSN3BCg+Lm8SD8ORV7h+g1+BOEWP2ExkNEUg1jKGDQrm0CreWLJnP54tJmY5G9aN9s7hOc8s/qZb14O006j0jXyo5eGFxLzb6NZ3fLPVvltHQ+bq6I8oF85lhYCOLHuQzlmNhrXqsw/PRD5Wy1tm4wSTxt3WOjYfllElAa1bV5t36CGQ64VfSgvrZS4EQNmtL5sHTCRGoI6tUS+V3RkL2YIlWVQsMNHBZSHcvphp1YWefTjFd6/fTJ9P8=
+<?php
+/*
+ * <div class="row box" style="width:1002px;direction: rtl">
+                <div class="col-md-6">
+                    <h4>الاصدار الثاني</h4>
+                    <h4><a href="http://baha2.in/">Baha'a Odeh</a></h4>
+                    <h4><a href="http://hloun.com">Hloun.com</a></h4>
+                </div>
+                <div class="col-md-6">
+                    <h4>سكربت ليون بوست</h4>
+                    <h4>برمجة</h4>
+                    <h4>الموقع الرسمي</h4>
+                </div>        
+            </div>
+ */
+ini_set('max_execution_time', 0); 
+include ('../class/db.php');
+include ('../class/Settings.php');
+include ('../class/Users.php');
+include ('../class/lang.php');
+$ST = new Settings('settings');
+
+$USERS = new User();
+$USERS->setTable('users');
+
+$PAGES = new User();
+$PAGES->setTable('pages');
+
+$POSTS = new User();
+$POSTS->setTable('posts');
+
+
+$TASK = new User();
+$TASK->setTable('task');
+
+require '../src/facebook.php';
+
+$scriptMsg = "شكرا لستخدامك ليون بوست الاصدار الثاني";
+$config = array();
+$config['appId'] = $ST->get('app_id');
+$config['secret'] = $ST->get('app_key');
+$config['fileUpload'] = true; // optional
+$facebook = new Facebook($config);
+$APPACCESS = str_replace("access_token=","",getLink("https://graph.facebook.com/oauth/access_token?client_id=".$ST->get('app_id')."&client_secret=".$ST->get('app_key')."&grant_type=client_credentials"));
+function getPageAccess($userid,$pageid){
+    global $facebook;
+    $USERS = new User();
+    $USERS->setTable('users');
+
+    $USERS->setUid($userid);
+    $INFO = $USERS->getUser();
+        try {
+        $pageinfo = $facebook->api('/'.$pageid.'/?fields=access_token','GET',array('access_token'=>$INFO->fb_access));
+        }catch(FacebookApiException $e){
+                error_log('Could not get page access.'.$e);
+        }
+        if($pageinfo){
+            return $pageinfo['access_token'];
+        }
+        return $INFO->fb_access;
+}
+echo '<meta charset="utf-8"/>';
+$ti = time();
+$TASKINFO = $TASK->getUsersNoLimit("where `type`='2' and `time`<='$ti'  and `isfinish`='0' ");
+if(count($TASKINFO) && $TASKINFO !=''){
+    for($c=0;$c<count($TASKINFO);$c++){            
+        $TASKONE = $TASKINFO[$c];
+        
+         $POSTSArray = split(",",$TASKONE['posts']);
+             $where = "where `id`>".$TASKONE['idnow']." "; 
+             if($TASKONE['taskfor'] == 'pages'){
+              $usersData = $PAGES->getUsersNoLimit($where);  
+             }else{
+               if($TASKONE['gander'] =="male")
+                   $where .= " and `fb_gander` = 'm' ";
+               else if($TASKONE['gander'] =="female")
+                   $where .= " and `fb_gander` = 'f' ";
+               
+               if($TASKONE['count']!="all"){
+                   $cc = str_replace(",", "','", $TASKONE['count']);
+                   echo $cc;
+                   if($cc!="")
+                    $where .= " and `country_code` IN  ('$cc') ";
+               }
+               
+              $usersData = $USERS->getUsersNoLimit($where);   
+             }
+             $TASKCFORUPDATE = new User();
+             $TASKCFORUPDATE->setTable('task');
+             $TASKCFORUPDATE->setUid($TASKONE['id']);
+             
+             $TASKCFORUPDATE->UpdateUser('totalcount', count($usersData));
+             $singeTask = $TASKCFORUPDATE->getUser();
+             $sccessCount = $TASKONE['successed'];
+             $unsccessCount = $TASKONE['failed'];
+             
+             echo '<h2>'.$TASKONE['id'].'</h2>';
+            for($i=0;$i< count($usersData);$i++){
+                echo '<br />start send to user<br />';
+                 $u = $usersData[$i];
+                 $POSTS = new User();
+                 $POSTS->setTable('posts');
+                 $POSTS->setUid($POSTSArray[rand(0,count($POSTSArray)-1)]);
+                 $postData = $POSTS->getUser();
+                 
+                 if($singeTask->taskfor == 'pages'){
+                     $ID = $u['page_id'];
+                     $acess = getPageAccess($u['user_id'],$u['page_id']);
+                     $NAME = $u['page_name'];
+                 }else{
+                     $ID = $u['fb_id'];
+                     $acess = $APPACCESS;
+                     if($postData->type == 3)
+                     	 $acess = $u['fb_access'];
+                     $NAME = $u['fb_name'];
+                 }
+                    $post_array['access_token'] = $acess;
+                    $post_array['message'] = stripslashes($postData->text);
+                 if($postData->type == 2)
+                    $post_array['link'] = stripslashes($postData->link);
+                 else if($postData->type == 3)
+                    $post_array['source'] = '@../'.stripslashes($postData->link);
+                 
+                 
+                 try{
+                     
+                 if($postData->type == 2 || $postData->type == 1)
+                     $add= $facebook->api('/'.$ID.'/feed','post',$post_array);
+                 else if($postData->type == 3)
+                    $add= $facebook->api('/'.$ID.'/photos/','post',$post_array);
+                  
+                     
+                 }  catch (FacebookApiException $e) {
+                     $add = false;
+                 }
+                    $subUser = new User();
+                     if($singeTask->taskfor == 'pages')
+                         $subUser->setTable ('pages');
+                     else
+                         $subUser->setTable('users');
+                 
+                  $TASKCFORUPDATE->UpdateUser('idnow', $u['id']);     
+                 
+                 $subUser->setUid($u['id']);
+                 if($add){
+                     $subUser->UpdateUser("last_share", 1);
+                     $sccessCount++;
+                    $TASKCFORUPDATE->UpdateUser('successed', $sccessCount);                
+                     echo '<div class="alert alert-success">'.  str_replace("{user}", $NAME, $ln['share_sucess_to_user']).' - <a href="//facebook.com/'.$add['id'].'">'.$add['id'].'</a></div>';
+                     
+                 }else{
+                     $unsccessCount++;
+                     $subUser->UpdateUser("last_share", 2);
+                     $TASKCFORUPDATE->UpdateUser('failed', $unsccessCount);                
+                     echo '<div class="alert alert-danger">'.  str_replace("{user}", $NAME, $ln['share_unsuccess_to_user']).'</div>';
+                 }
+                  $TASKCFORUPDATE->UpdateUser('idnow', $u['id']);                
+                 flush();
+                ob_flush();
+                sleep(1);
+                
+                if( $i== (count($usersData)-1) )
+                {    echo 'update finish';
+                     $TASKCFORUPDATE->UpdateUser('isfinish', 1);
+                     echo 'update finish done';
+                }
+             }
+             sleep(5);
+    }
+    
+}
+
+?>
