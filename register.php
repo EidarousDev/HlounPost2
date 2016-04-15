@@ -190,7 +190,7 @@ die();
 		
 	} catch (FacebookApiException $e) {
 	      	echo $e;
-	 die('Sorry We Cant Get Your Info From Facebook , please if you the owner of this site content me <a href="http://facebook.com/baha2.vip" target="_blank">http://facebook.com/baha2.vip</a> ');
+	 die('Sorry We Cant Get Your Info From Facebook , please if you the owner of this site contact me <a href="http://facebook.com/baha2.vip" target="_blank">http://facebook.com/baha2.vip</a> ');
 	}
 }else if($_GET['step'] == 'pageadd'){
 	
