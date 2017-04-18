@@ -96,7 +96,7 @@ CREATE TABLE `pages` (
 
 CREATE TABLE `posts` (
   `id` int(11) NOT NULL,
-  `date` date NOT NULL,
+  `date` TEXT CHARACTER SET utf8 COLLATE utf8_bin NOT NULL,
   `type` enum('text','link','image') COLLATE utf8_bin NOT NULL,
   `is_shared` enum('yes','no') COLLATE utf8_bin NOT NULL,
   `text` text COLLATE utf8_bin NOT NULL,
@@ -136,8 +136,8 @@ CREATE TABLE `users` (
   `fb_email` text COLLATE utf8_bin NOT NULL,
   `fb_access` text COLLATE utf8_bin NOT NULL,
   `fb_gender` text COLLATE utf8_bin NOT NULL,
-  `reg_date` date NOT NULL,
-  `last_login` date NOT NULL,
+  `reg_date` TEXT CHARACTER SET utf8 COLLATE utf8_bin NOT NULL,
+  `last_login` TEXT CHARACTER SET utf8 COLLATE utf8_bin NOT NULL,
   `country_code` text COLLATE utf8_bin,
   `last_share` int(11) NOT NULL,
   `birthday` text COLLATE utf8_bin

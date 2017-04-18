@@ -70,7 +70,8 @@ ALTER TABLE `pages` CHANGE `page_id` `page_id` INT NOT NULL;
 ALTER TABLE `pages` CHANGE `page_name` `page_name` TEXT CHARACTER SET utf8 COLLATE utf8_bin NOT NULL;
 ALTER TABLE `pages` CONVERT TO CHARACTER SET utf8 COLLATE utf8_bin;
 UPDATE `posts` SET `date`=DATE_FORMAT(FROM_UNIXTIME(`date`), '%Y/%m/%d %H:%i:%s');
-ALTER TABLE `posts` CHANGE `date` `date` DATE NOT NULL;
+
+ALTER TABLE `posts` CHANGE `date` `date` TEXT CHARACTER SET utf8 COLLATE utf8_bin NOT NULL;
 ALTER TABLE `posts` CHANGE `is_shared` `is_shared` TEXT NOT NULL;
 UPDATE `posts` set `is_shared` = 'no' WHERE `is_shared` = 0;
 UPDATE `posts` set `is_shared` = 'yes' WHERE `is_shared` = 1;
@@ -88,8 +89,8 @@ ALTER TABLE `users` CHANGE `fb_gander` `fb_gender` TEXT CHARACTER SET utf8 COLLA
 ALTER TABLE `users` ADD `birthday` TEXT NULL DEFAULT NULL AFTER `last_share`;
 UPDATE `users` SET `reg_date`=DATE_FORMAT(FROM_UNIXTIME(`reg_date`), '%Y/%m/%d %H:%i:%s');
 UPDATE `users` SET `last_login`=DATE_FORMAT(FROM_UNIXTIME(`last_login`), '%Y/%m/%d %H:%i:%s');
-ALTER TABLE `users` CHANGE `reg_date` `reg_date` DATE NOT NULL;
-ALTER TABLE `users` CHANGE `last_login` `last_login` DATE NOT NULL;
+ALTER TABLE `users` CHANGE `reg_date` `reg_date` TEXT CHARACTER SET utf8 COLLATE utf8_bin NOT NULL;
+ALTER TABLE `users` CHANGE `last_login` `last_login` TEXT CHARACTER SET utf8 COLLATE utf8_bin NOT NULL;
 ALTER TABLE `users` CHANGE `fb_id` `fb_id` TEXT CHARACTER SET utf8 COLLATE utf8_bin NOT NULL;
 ALTER TABLE `users` CHANGE `fb_name` `fb_name` TEXT CHARACTER SET utf8 COLLATE utf8_bin NOT NULL;
 ALTER TABLE `users` CHANGE `fb_email` `fb_email` TEXT CHARACTER SET utf8 COLLATE utf8_bin NOT NULL;
