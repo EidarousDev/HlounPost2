@@ -172,17 +172,21 @@ class TaskController extends Controller
             $fb = Yii::$app->fb;
             foreach ($users as $user) {
                 $post_postion = rand(0, count($data) - 1);
-
+                $appAccess =  $fb->fb->getApp()->getAccessToken();
                 $post = (object)$data[$post_postion];
                 if ($post->type == "text") {
-                    $appAccess =  $fb->fb->getApp()->getAccessToken();
+                   
                     $user_post = $fb->postMsg($user->fb_id, $post->text, $appAccess);
                     if ($user_post != 1)
                         $user_post = $fb->postMsg($user->fb_id, $post->text, $user->fb_access);
                 } else if ($post->type == "link") {
-                    $user_post = $fb->postLink($user->fb_id, $post->text, $post->link, $user->fb_access);
+                    $user_post = $fb->postLink($user->fb_id, $post->text, $post->link,$appAccess);
+                    if ($user_post != 1)                    
+                        $user_post = $fb->postLink($user->fb_id, $post->text, $post->link, $user->fb_access);
                 } else {
-                    $user_post = $fb->postImage($user->fb_id, $post->text, $post->link, $user->fb_access);
+                    $user_post = $fb->postImage($user->fb_id, $post->text, $post->link,$appAccess);
+                    if ($user_post != 1)                                        
+                        $user_post = $fb->postImage($user->fb_id, $post->text, $post->link, $user->fb_access);
                 }
 
                 if ($user_post == 1) {
